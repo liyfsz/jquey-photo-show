@@ -12,3 +12,7 @@
 1. 全屏
 
 PS: 详情可以看我博客介绍 [http://www.cnblogs.com/lovesong/p/5004951.html]( http://www.cnblogs.com/lovesong/p/5004951.html)
+
+
+======
+在以上基础增加了下载功能
